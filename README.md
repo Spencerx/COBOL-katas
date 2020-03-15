@@ -13,3 +13,4 @@ Katas taken from http://cyber-dojo.org
 4. [Monty Hall](https://github.com/mikebharris/COBOL-katas/tree/master/COBOL-Monty-Hall) - The Monty Hall problem - a goat or a car for you sir?
 5. [Mars Rover](https://github.com/mikebharris/COBOL-katas/tree/master/COBOL-Mars-Rover) - Google's Mars Rover Technical Challenge
 6. [Balanced Parentheses](https://github.com/mikebharris/COBOL-katas/tree/master/COBOL-Balanced-Parentheses) - are your brackets balanced or aren't they?
+6. [Conwar's Game of Life](https://github.com/mikebharris/COBOL-katas/tree/master/COBOL-Game-of-Life) - a solution to a single iteration of the Game of Life.
