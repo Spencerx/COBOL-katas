@@ -37,11 +37,6 @@
 identification division.
 program-id. GameOfLifeTest.
 
-environment division.
-*> configuration section.
-    *> repository.
-        *> function LifeGrid.
-
 data division.
 working-storage section.
     01 LifeGrid.
